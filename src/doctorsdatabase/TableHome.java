@@ -25,7 +25,7 @@ public class TableHome extends javax.swing.JFrame {
     public TableHome() {
         initComponents();
         this.getContentPane().setBackground(Color.WHITE);
-        setIconImage(Toolkit.getDefaultToolkit().getImage(getClass().getResource("heart.png")));
+        setIconImage(Toolkit.getDefaultToolkit().getImage(getClass().getResource("icon.png")));
     }
     /**
      * This method is called from within the constructor to initialize the form.
